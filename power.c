@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <math.h>
 int main(){
@@ -7,4 +8,6 @@ int main(){
   j=pow(n,m);
   printf("%lld\n",j);
   return 0;
+
+
 }
