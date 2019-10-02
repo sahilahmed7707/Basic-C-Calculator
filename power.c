@@ -1,11 +1,13 @@
 
-#include<stdio.h>
-int main()
-{
-  int i,a,b,r;
-  scanf("%d%d");
-  r=a;
-  for(i=1;i>1;i++)
-  {r=r*a;}
-  printf("\n%d",r);
+#include <stdio.h>
+#include <math.h>
+int main(){
+  
+  long long i,j=1,n,m;
+  scanf("%lld",&n,&m);
+  j=pow(n,m);
+  printf("%lld\n",j);
+  return 0;
+
+
 }
