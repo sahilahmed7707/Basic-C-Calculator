@@ -1,5 +1,5 @@
 
-
+ // adding two elements
 #include <stdio.h>
 /*int sum,x,y;
 scanf("%d %d",&x,&y);
