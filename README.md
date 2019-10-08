@@ -1,12 +1,12 @@
 # Basic-C-Calculator
-This Calculator is a basic project by some beginers and some Professionals in C.
+This Calculator is a basic project by some beginners and some Professionals in C.
 
 
-The following can be accepted via scanf fumcions ;
-the inputs can be multiple of of single input;
+The following can be accepted via scanf functions;
+the inputs can be multiple of single input;
 
 
-====>>>>> sahilahmed0707 Added Divide,power,multiply functions.
+====>>>>> sahilahmed0707 Added Divide, power, multiply functions.
  
  /*#include<stdio.h>
 int main()
