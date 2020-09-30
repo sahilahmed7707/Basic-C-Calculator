@@ -1,5 +1,5 @@
 # Basic-C-Calculator
-This Calculator is a basic project by some beginners and some Professionals in C.
+This is a basic c calculator by some beginner and professionals programmers.
 
 
 The following can be accepted via scanf functions;
